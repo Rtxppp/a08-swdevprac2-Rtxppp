@@ -17,7 +17,7 @@ export default function Car() {
           </p>
         }
       >
-        <VenueCatalog venueJson={venue} />
+        <VenueCatalog venuesJson={venue} />
       </Suspense>
     </main>
   );
